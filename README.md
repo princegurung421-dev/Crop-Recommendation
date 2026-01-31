@@ -1,4 +1,7 @@
-# 🌱 Smart Crop Recommendation System
+## Student name: Prince Gurung
+## Student number: 2317057
+## Project title: Smart Crop Recommendation System
+## Link to project video recording: https://drive.google.com/file/d/13LcVVdfAACTudYVQeRZi5TeGJzupJHkE/view?usp=sharing
 
 > **A Student-Friendly AI Project**  
 > Predicts the best crop to cultivate based on soil and weather data using Machine Learning.
